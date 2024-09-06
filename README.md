@@ -18,3 +18,5 @@ Proficient in:
  * DevOps (GitHub, GitHub Actions, AWS)
 
 I'm a staunch advocate for Test-Driven Development and delivering clean, well-structured code.
+
+My CV: https://phoenix-software.notion.site/Bao-Khuu-Resume-v-20220329-46ead2f7131949e69e95e0341b125915
